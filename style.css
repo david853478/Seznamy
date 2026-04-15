@@ -1,0 +1,51 @@
+.red {
+color:red;
+}
+
+.container {
+max-width: 1200px;
+margin: 0 auto;
+}
+
+h1, h2 {
+position:relative;
+justify-content:center;
+align-items: center;
+display: flex;
+}
+
+h2 {
+color:white;
+background-color:darkred;
+border-radius:8px;
+align-items: center;
+
+}
+
+h3 {
+color:darkblue;
+}
+
+caption {
+    color:white;
+    background-color:black;
+    margin-bottom:10px;
+}
+
+thead, tfoot {
+    background-color:lightgray;
+}
+
+table, th, td {
+    border:1px solid var(black);
+    border-collapse:collapse;
+}
+
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+.doprava {
+text-align: right;
+}
