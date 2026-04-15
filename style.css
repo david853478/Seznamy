@@ -1,4 +1,4 @@
-.red {
+.red{
 color:red;
 }
 
@@ -30,6 +30,7 @@ caption {
     color:white;
     background-color:black;
     margin-bottom:10px;
+    margin-top:20px
 }
 
 thead, tfoot {
